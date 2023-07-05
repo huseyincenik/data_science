@@ -1,3 +1,6 @@
+![Statistics](https://images.theconversation.com/files/236859/original/file-20180918-158240-1jd9gm6.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip)
+
+[Image Credit](https://images.theconversation.com/files/236859/original/file-20180918-158240-1jd9gm6.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip)
 ## CONFIDENCE INTERVALS
 
 **EXERCISE 1.** What is the normal body temperature for healthy humans? A random sample of 130 healthy human body temperatures provided by Allen Shoemaker yielded 98.25 degrees and standard deviation 0.73 degrees. 
@@ -26,4 +29,5 @@ Get descriptive statistics (the central tendency, dispersion, and shape of a dat
 Determine whether there is any difference (on average) for the math scores among European (EU) and Asian (AS) countries (assume normality and equal variances). Draw side-by-side box plots.
 
 **CHECK:** statistic=0.870055317967983, p-value=0.38826888111307345
+
 
