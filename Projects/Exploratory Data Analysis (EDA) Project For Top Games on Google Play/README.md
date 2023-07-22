@@ -17,7 +17,7 @@ Bu projede kullanılan veri, aşağıdaki dosyadan oluşmaktadır:
 
 ## Exploratory Data Analysis (EDA) Projesi için Google Play'deki En İyi Oyunlar
 
-[EDA Projesi için GitHub Bağlantısı](link_to_project)
+[EDA Projesi için GitHub Bağlantısı](https://github.com/huseyincenik/data_science/tree/main/Projects/Exploratory%20Data%20Analysis%20(EDA)%20Project%20For%20Top%20Games%20on%20Google%20Play)
 
 
 # English
@@ -41,4 +41,4 @@ The data used in this project consists of the following file:
 
 ## Exploratory Data Analysis (EDA) Project For Top Games on Google Play
 
-[GitHub Link for EDA Project](link_to_project)
+[GitHub Link for EDA Project](https://github.com/huseyincenik/data_science/tree/main/Projects/Exploratory%20Data%20Analysis%20(EDA)%20Project%20For%20Top%20Games%20on%20Google%20Play)
