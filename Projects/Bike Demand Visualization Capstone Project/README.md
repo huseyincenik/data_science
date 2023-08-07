@@ -38,7 +38,7 @@ Bu proje açık kaynaklıdır ve tüm katkılara açıktır. Katkıda bulunmak i
 
 ## İletişim
 
-Sorularınız, önerileriniz veya geri bildirimleriniz için lütfen [email@example.com](mailto:huseyinceniik@gmail.com) adresine ulaşın.
+Sorularınız, önerileriniz veya geri bildirimleriniz için lütfen [huseyinceniik@gmail.com](mailto:email@example.com) adresine ulaşın.
 
 # English
 
@@ -80,5 +80,5 @@ This project is open-source and open to all contributions. If you'd like to cont
 
 ## Contact
 
-For any questions, suggestions, or feedback, please reach out to us at [email@example.com](mailto:huseyinceniik@gmail.com).
+For any questions, suggestions, or feedback, please reach out to us at [huseyinceniik@gmail.com](mailto:email@example.com).
 
