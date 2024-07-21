@@ -49,11 +49,7 @@ Insights into how logarithmic transformations can enhance time series models and
 
 ## Additional Resources
 
+- [Github Repository](https://github.com/huseyincenik/data_science/tree/main/time_series_analysis)
 - [Dataset](https://www.kaggle.com/datasets/shenba/time-series-datasets)
 - [Kaggle Notebook](https://www.kaggle.com/code/huseyincenik/time-series-decomposition-example-1)
 - [Linkedin Account](https://www.linkedin.com/in/huseyincenik/)
-
-## Contributing
-
-Contributions are welcome! Please submit a pull request or open an issue to discuss any improvements or suggestions.
-
