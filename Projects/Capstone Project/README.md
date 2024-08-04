@@ -37,3 +37,10 @@ Proje üç ana bölüme ayrılabilir:
 3. **Veri Aykırı Değerlerinin İşlenmesi**: Bu bölümde, veriden anlayışlar elde etmek ve aykırı değerleri tanımlamak ve işlemek için görselleştirme kütüphaneleri kullanılacaktır.
 
 Elde edilen temiz veri kümesi, Makine Öğrenimi Yolundaki sonraki analiz ve tahmin modellemesi için değerli olacaktır. Bu proje, veri manipülasyonu, analizi ve görselleştirmeyi gerçek dünya bağlamında uygulama fırsatı sunmaktadır.
+
+## Kaggle Linkleri
+-[Autoscout Exploratory Data Analysis - Part - 1](https://www.kaggle.com/code/huseyincenik/autoscout-exploratory-data-analysis-part-1)
+
+-[Autoscout Exploratory Data Analysis - Part - 2](https://www.kaggle.com/code/huseyincenik/autoscout-exploratory-data-analysis-part-2)
+
+-[Autoscout Exploratory Data Analysis - Part - 3](https://www.kaggle.com/code/huseyincenik/autoscout-exploratory-data-analysis-part-3)
