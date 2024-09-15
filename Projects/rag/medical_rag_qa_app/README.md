@@ -108,5 +108,5 @@ The **Medical RAG QA App** is a web-based application designed for medical quest
 
 ### Contact
 
-For any questions or issues, please contact [your-email@example.com](mailto:huseyinceniik@gmail.com).
+For any questions or issues, please contact [huseyinceniik@gmail.com](mailto:huseyinceniik@gmail.com).
 
