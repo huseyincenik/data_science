@@ -1,4 +1,4 @@
-# Data Analysis with Python
+# Data Science with Python
 
 ## Projects
 
@@ -13,3 +13,4 @@
 | **Titanic - EDA, A Statistical Analysis and Prediction** | Analyze and predict outcomes based on Titanic passenger data. | [GitHub](https://github.com/huseyincenik/data_science/tree/main/Projects/Titanic%20-%20EDA%2C%20A_Statistical_Analysis%20and%20Prediction) | [Kaggle](https://www.kaggle.com/code/huseyincenik/titanic-eda-statistical-analysis-and-prediction) |
 | **World Happiness Analysis** | Investigate factors influencing world happiness levels. | [GitHub](https://github.com/huseyincenik/data_science/tree/main/Projects/World%20Happiness%20Analysis%2C) | [Kaggle]() |
 | **Time Series Analysis** | Comprehensive exploration of time series data using various decomposition methods. | [GitHub](https://github.com/huseyincenik/data_science/tree/main/time_series_analysis) | [Kaggle]() |
+| **Medical RAG QA App** | A question-answering application for medical queries using Meditron 7B LLM, Qdrant Vector Database, and PubMedBERT Embedding Model. | [GitHub](https://github.com/huseyincenik/data_science/tree/main/Projects/rag/medical_rag_qa_app) | - |
